@@ -13,7 +13,7 @@ The number of point clouds of the five categories in the RailPoints database is 
 
 | Terrain | Track | Pedestrian | Vegetation | Artifact	|   All   |
 | --- | --- | --- | --- | --- | --- |  
-| 309980	| 327431 |	  8723	  |  278195	   |  93624	  | 1017953 |
+| 309980	| 327431 | 8723 | 278195 | 93624 | 1017953 |
 
 The visualization of some point clouds in the database is as follows:
 ![image](https://github.com/1999rockclimber/RailPoints/assets/139934658/f46572a0-3eba-46b5-b719-5e2ba99cab9f)

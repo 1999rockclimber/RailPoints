@@ -8,6 +8,7 @@ The web-based point cloud tagging tool Semantic Segmentation Editor, an open-sou
 4) Vegetation: This category includes trees, shrubs, and hedges etc. Its appearance is an irregularly shaped point above the ground. 
 5) Artifact: This category includes man-made objects such as fences, barriers, utility poles, streetlights, and road signs etc. Its appearance is a series of more regular points above the ground, most of which are planar or columnar.
 The number of point clouds of the five categories in the RailPoints database is listed in the table below:
+
 Terrain	| Track  | Pedestrian | Vegetation | Artifact	|   All
 309980	| 327431 |	  8723	  |  278195	   |  93624	  | 1017953
 

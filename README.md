@@ -10,6 +10,7 @@ The web-based point cloud tagging tool Semantic Segmentation Editor, an open-sou
 The number of point clouds of the five categories in the RailPoints database is listed in the table below:
 
 Terrain	| Track  | Pedestrian | Vegetation | Artifact	|   All
+
 309980	| 327431 |	  8723	  |  278195	   |  93624	  | 1017953
 
 The visualization of some point clouds in the database is as follows:

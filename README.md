@@ -13,6 +13,7 @@ Terrain	| Track  | Pedestrian | Vegetation | Artifact	|   All
 
 The visualization of some point clouds in the database is as follows:
 ![image](https://github.com/1999rockclimber/RailPoints/assets/139934658/f46572a0-3eba-46b5-b719-5e2ba99cab9f)
+
 Within this visualization, the Terrain category is represented by brown points, the Track category by blue points, the Pedestrian category by red points, the Vegetation category by green points, and the Artifact category by yellow points.
 
 If you need the specific data content of the RailPoints database, please consult these emails for more details:ssmytxdy@gmail.com

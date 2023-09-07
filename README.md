@@ -20,6 +20,6 @@ The visualization of some point clouds in the database is as follows:
 
 Within this visualization, the Terrain category is represented by brown points, the Track category by blue points, the Pedestrian category by red points, the Vegetation category by green points, and the Artifact category by yellow points.
 
-If you need the specific data content of the RailPoints database, please consult these emails for more details:ssmytxdy@gmail.com
+If you need the specific data content of the RailPoints database, please consult these emails for more details: sunning@njupt.edu.cn or ssmytxdy@gmail.com 
 
 
